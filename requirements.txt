@@ -7,3 +7,4 @@ pytz
 scipy
 scikit-learn
 altair
+openpyxl
