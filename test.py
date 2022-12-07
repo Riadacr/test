@@ -8,8 +8,6 @@ from numpy.lib.function_base import average
 import pandas as pd
 import datetime
 from datetime import timedelta, date
-import matplotlib.pyplot as plt
-from pytz import HOUR
 from sklearn.linear_model import LinearRegression
 from timeit import default_timer as timer
 import streamlit as st
