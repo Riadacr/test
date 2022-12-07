@@ -17,7 +17,6 @@ from scipy.ndimage import uniform_filter1d
 from itertools import islice
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import plotly_express as px
 import plotly.figure_factory as ff
 from plotly.colors import n_colors
 from scipy.special import gamma, factorial
